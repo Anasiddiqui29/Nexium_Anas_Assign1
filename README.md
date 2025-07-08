@@ -17,8 +17,6 @@ Vercel for deployment
 
 💅 Responsive UI with gradient background and glassmorphism
 
-🌗 Light/Dark mode toggle
-
 ⚡ Powered by local JSON (no API calls)
 
 📸 Preview
