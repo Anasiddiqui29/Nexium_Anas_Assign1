@@ -22,3 +22,4 @@ Vercel for deployment
 ⚡ Powered by local JSON (no API calls)
 
 📸 Preview
+![Screenshot 2025-07-08 163210](https://github.com/user-attachments/assets/2a84b7ae-204a-4f40-94e8-c00713b2033a)
