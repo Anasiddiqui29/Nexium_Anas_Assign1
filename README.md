@@ -21,3 +21,9 @@ Vercel for deployment
 
 📸 Preview
 ![Screenshot 2025-07-08 163210](https://github.com/user-attachments/assets/2a84b7ae-204a-4f40-94e8-c00713b2033a)
+
+🛠 Local Setup
+git clone https://github.com/Anasiddiqui29/Nexium_Anas_Assign1.git
+cd Nexium_Anas_Assign1
+npm install
+npm run dev
